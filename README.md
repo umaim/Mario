@@ -1,4 +1,4 @@
-## FullScreenMario [![Build Status](https://travis-ci.org/Cloud-Swift/Mario.svg?branch=master)](https://travis-ci.org/Cloud-Swift/Mario)
+## FullScreenMario
 
 #### A free HTML5 remake of Nintendo's original Super Mario Bros, expanded for the modern web. It includes the original 32 levels, a random map generator, a level editor, and over a dozen custom mods.
 
