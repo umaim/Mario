@@ -36,3 +36,4 @@ The FullScreenMario.ts class declaration contains class functions and some const
 This is released under the [MIT License](http://mit-license.org/) (see [License.txt](LICENSE.txt)). 
 
 The FullScreenMario project started October 21st, 2012. The initial beta release in October 2013 saw the [primary host website](http://www.fullscreenmario.com) receive approximately 2.68 million unique visitors within a month, after which Nintendo shut the site down with a DMCA complaint (no action was taken against the authors, GitHub, or other hosting websites). The coding project then underwent an extensive rewrite and architecture change to become a modular project centered on the GameStartr platform, followed by a complete conversion to TypeScript.
+[![Run on Repl.it](https://repl.it/badge/github/xPixv/Mario)](https://repl.it/github/xPixv/Mario)
