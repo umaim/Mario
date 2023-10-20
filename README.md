@@ -24,7 +24,7 @@ FullScreenMario uses [Grunt](http://gruntjs.com/) to automate building, which re
 
 #### Coding
 
-FullScreenMario is built on a modular framework called GameStartr. The [FullScreenShenanigans](https://github.com/FullScreenShenanigans/) organization contains GameStartr, its parent class EightBittr, and the modules used by the GameStartr framework. These all (theoretically) have their own README files, which you should skim before developing for FullScreenMario itself.
+FullScreenMario is built on a modular framework called GameStartr. The [FullScreenShenanigans](https://github.com/FullScreenShenanigans/) organization contains GameStartr, it's parent class EightBittr, and the modules used by the GameStartr framework. These all (theoretically) have their own README files, which you should skim before developing for FullScreenMario itself.
 
 All source code is in the [Source](Source/) directory. See [Getting Started.md](Getting Started.md) for an in-depth guide on getting started programming with FullScreenMario.
 
@@ -35,4 +35,4 @@ The FullScreenMario.ts class declaration contains class functions and some const
 
 This is released under the [MIT License](http://mit-license.org/) (see [License.txt](LICENSE.txt)). 
 
-The FullScreenMario project started October 21st, 2012. The initial beta release in October 2013 saw the [primary host website](http://www.fullscreenmario.com) receive approximately 2.68 million unique visitors within a month, after which Nintendo shut the site down with a DMCA complaint (no action was taken against the authors, GitHub, or other hosting websites). The coding project then underwent an extensive rewrite and architecture change to become a modular project centered on the GameStartr platform, followed by a complete conversion to TypeScript.
+The FullScreenMario project started October 21st, 2012. The initial beta that was released in October 2013 saw the [primary host website](http://www.fullscreenmario.com) received approximately 2.68 million unique visitors within a month, after which Nintendo shut the site down with a DMCA complaint (no action was taken against the authors, GitHub, or other hosting websites). The coding project then underwent an extensive rewrite and architecture change to become a modular project centered on the GameStartr platform, followed by a complete conversion to TypeScript.
